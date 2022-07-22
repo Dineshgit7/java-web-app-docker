@@ -1,0 +1,37 @@
+                                     Patient Contact information
+
+
+Admin:
+
+•	Admin require Username and Password for login into the portal
+•	Admin can add necessary patient information in the system
+•	Admin can add a tag to a Patient's profile
+•	Admin can also delete a patient id if needed
+•	Admin can see patient details and appointment history
+
+
+Doctor:
+
+•	Doctor require Username and Password for login into their profile
+•	Doctor will see the necessary information of the patient.
+•	Doctor will be able to see the previous prescriptions of patients
+•	Doctor will be able to reschedule an appointment
+•	Doctor will also be able to see the total number of patients and their details in Profile.
+
+Patient:
+
+
+•	Patient should register with some necessary information
+•	Patient can login with their Username and Password for login
+•	Patient should add the first name and last name in profile
+•	Patient should fill the gender column
+•	Patient should provide the mobile number
+•	Patient can book an appointment with a doctor
+•	Patient should provide some necessary information about his health
+•	Patient can download the prescription from their history
+•	Patient can also cancel his/her appointment or reschedule the meeting to another time before 12 hours
+   
+    
+
+
+
